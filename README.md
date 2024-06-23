@@ -11,5 +11,5 @@ My Skillset :-
 >A beginner understanding of a CMS like Sanity.
 >Advanced in using AI tools like Chat GPT and Leonardo.ai for modern image generation.
 >I've also tested my website's performance which is appropriate according to industry standards.
-With this skillset I consider my self as a Progressive Web Developer. I'am also learning consistently, adding new skills to my skillset like Operations as I've done Development.
+With this skillset I consider myself as a Progressive Web Developer. I'am also learning consistently, adding new skills to my skillset like Operations as I've done Development.
 I'll constantly add more and more skills in future. 
