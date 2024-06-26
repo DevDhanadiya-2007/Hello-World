@@ -1,6 +1,6 @@
 # Hello-World
 About Me 
-I am a high school student. I've down my matricular education from : Our Lady of Pillar Convent School | Jodhpur, Rajasthan, India.
+I am a high school student. I've done my matricular education from : Our Lady of Pillar Convent School | Jodhpur, Rajasthan, India.
 Now I'm pursuing my high school studies privately and focusing completely on Tech Stuff like website development.
 My Skillset :-
 >MongoDB
